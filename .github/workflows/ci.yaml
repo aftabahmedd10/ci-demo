@@ -19,6 +19,6 @@ jobs:
           python -m pip install --upgrade-pip
           pip install flake8
 
-      - naem: run flake8
+      - name: run flake8
         run: |
           flake8 app.py
