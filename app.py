@@ -16,5 +16,3 @@ result2 = sub(20, 10)
 if __name__ == '__main__':
     print(mul(10, 20))
     print(result1+result2)
-
-
